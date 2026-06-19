@@ -19,16 +19,16 @@ collection_of_coins = {1, 2, 25}
 # create a  dictionary categorized by data types
 sorted_variables = {
     "mutable" : [
-        my_favourite_films, #List[]
-        marks, # Dictionary {}
-        collection_of_coins, # Set {} , with single values
+        my_favourite_films,  #List[]
+        marks,  # Dictionary {}
+        collection_of_coins,  # Set {} , with single values
     ],
     "immutable" : [
-        lucky_number, # Integer (int)
-        one_is_a_prime_number, #Boolean value (bool)
-        pi, # Floating-point number (float)
-        name, # String (str)
-        profile_info, # Tuple ()
+        lucky_number,  # Integer (int)
+        one_is_a_prime_number,  #Boolean value (bool)
+        pi,  # Floating-point number (float)
+        name,  # String (str)
+        profile_info,  # Tuple ()
     ]
 }
 
